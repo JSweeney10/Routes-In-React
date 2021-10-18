@@ -1,0 +1,14 @@
+nav > a {
+  color: white ;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 1em;
+  transition: .3s;
+
+}
+
+nav > a.active {
+  text-decoration: underline;
+  color: crimson;
+  background-color: wheat;
+}
